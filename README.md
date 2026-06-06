@@ -268,11 +268,16 @@ Nmap done :: 1 host up :: 4 ports open :: handshake welcome.
  ________________________________________
 < HACK THE PLANET // MAKE MACHINES THINK >
  ----------------------------------------
-       \     ^__^
-        \    (oo)\_______
-             (__)\       )\/\
-                 ||----w |
-                 ||     ||
+        \
+         \         .-""-.
+                 .'      '.
+                /  x    x  \
+               |     /\     |
+               |    (  )    |
+                \   '--'   /
+                 '.      .'
+                 /`-....-'\
+                (_(_)(_)(_)
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=120&section=footer" width="100%" />
