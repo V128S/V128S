@@ -157,10 +157,11 @@ A trilingual (UA / RU / EN) e-commerce + service platform for ASIC miners. **Liv
 
 ---
 
-## `[0x05] >> TROPHIES.db`
+## `[0x05] >> REPO_SCAN.db`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=V128S&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=8" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=V128S&theme=github_dark" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=V128S&theme=github_dark&utcOffset=2" height="180em" />
 </div>
 
 ---
