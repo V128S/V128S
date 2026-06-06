@@ -268,8 +268,8 @@ Nmap done :: 1 host up :: 4 ports open :: handshake welcome.
  ________________________________________
 < HACK THE PLANET // MAKE MACHINES THINK >
  ----------------------------------------
-        \   ^__^
-         \  (oo)\_______
+        \  ^__^
+         \ (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
