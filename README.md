@@ -45,6 +45,19 @@ root@V128S:~$ netstat | grep ESTABLISHED
   udp 0 0 V128S:*    human_mind     LISTENING
 ```
 
+```
+root@V128S:~$ ps aux --sort=-%cpu | head
+  USER   PID  %CPU  STAT  COMMAND
+  V128S  001  98.3  R     multi-agent-orchestrator --provider=anthropic
+  V128S  002  91.7  R     telegram-bot --framework=aiogram --async
+  V128S  003  87.4  R     tonmirror --copy-trade --live
+  V128S  004  82.1  R     trade-m --i18n=ua,ru,en --seo
+  V128S  005  64.9  S     llm-router --fallback=gemini,groq
+  V128S  006  41.2  D     yt-dlp | ffmpeg --pipe
+  V128S  666  00.4  Z     <defunct boredom>
+  V128S  007  12.0  T     sleep.service  [SIGSTOP]
+```
+
 <br clear="right"/>
 
 ---
