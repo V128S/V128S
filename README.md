@@ -185,7 +185,7 @@ A trilingual (UA / RU / EN) e-commerce + service platform for ASIC miners. **Liv
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=V128S&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&dates=c9d1d9&stroke=39d35333" width="58%" />
+  <img src="https://streak-stats.demolab.com?user=V128S&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&dates=c9d1d9&stroke=39D353&card_width=480" width="58%" />
 </div>
 
 ---
@@ -265,10 +265,9 @@ Nmap done :: 1 host up :: 4 ports open :: handshake welcome.
 [![quote](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2000&color=00F5FF&background=00000000&center=true&vCenter=true&random=false&width=720&height=32&lines=%3E+%22Any+sufficiently+advanced+technology+is+indistinguishable+from+magic.%22+--+A.C.Clarke)](https://git.io/typing-svg)
 
 ```
- __________________________________________
-/ HACK THE PLANET // MAKE MACHINES THINK   \
-\ uptime 99.9% :: shutting down... NOT.     /
- ------------------------------------------
+ ________________________________________
+< HACK THE PLANET // MAKE MACHINES THINK >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
