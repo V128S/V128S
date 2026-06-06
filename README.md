@@ -17,6 +17,26 @@
 
 ---
 
+## `[0x00] >> BOOT.log`
+
+```
+root@V128S:~$ ./boot --profile=V128S
+[    0.000000] Booting V128S kernel 3.13-asyncio ...
+[    0.013370] CPU: caffeine governor set to 'performance'
+[    0.042069] systemd: reached target multi-user.creativity
+[  OK  ] Mounted /dev/curiosity
+[  OK  ] Loaded neural drivers: anthropic · gemini · groq
+[  OK  ] Started telegram-bot.service  (aiogram, async)
+[  OK  ] Started web3.service  ::  TON Connect online
+[  OK  ] Reached target FULL_STACK  (bots + web3 + web)
+[ WARN ] sleep.service failed to start — deadlines pending
+[ DONE ] boot complete in 0.13s. type `whoami` to continue ▌
+```
+
+---
+
+## `[0x01] >> IDENTITY.sys`
+
 <img align="right" width="340" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="matrix code rain" />
 
 ```
@@ -187,7 +207,48 @@ A trilingual (UA / RU / EN) e-commerce + service platform for ASIC miners. **Liv
 
 ---
 
-## `[0x07] >> SNAKE.exe --stealth`
+## `[0x07] >> CRONTAB.sh`
+
+```
+root@V128S:~$ crontab -l
+# ┌── min  ┌── hour  ┌── dom  ┌── mon  ┌── dow
+  */5      *        *        *        *      brew --coffee --strong
+  0        3        *        *        *      git commit --no-sleep --amend-reality
+  0        9        *        *        1-5    systemctl start grind.service
+  */30     *        *        *        *      llm-router --refill-context
+  0        */2      *        *        *      rm -rf ~/bugs/*
+  @reboot                                    echo "HACK THE PLANET" | tee /dev/motd
+```
+
+---
+
+## `[0x08] >> CONNECT.sock`
+
+```
+root@V128S:~$ nmap -sV --open V128S
+Starting Nmap :: probing for open channels ...
+
+PORT      STATE  SERVICE    HANDLE
+22/tcp    open   ssh        github      @V128S
+443/tcp   open   https      telegram    @V128S
+80/tcp    open   http       x/twitter   @V128S
+25/tcp    open   smtp       email       virushunter@gmail.com
+
+Nmap done :: 1 host up :: 4 ports open :: handshake welcome.
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@V128S-0d1117?style=for-the-badge&logo=github&logoColor=39d353)](https://github.com/V128S)
+[![Telegram](https://img.shields.io/badge/Telegram-@V128S-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/V128S)
+[![X](https://img.shields.io/badge/X-@V128S-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/V128S)
+[![Email](https://img.shields.io/badge/Email-virushunter-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:virushunter@gmail.com)
+
+</div>
+
+---
+
+## `[0x09] >> SNAKE.exe --stealth`
 
 <div align="center">
   <picture>
@@ -204,7 +265,15 @@ A trilingual (UA / RU / EN) e-commerce + service platform for ASIC miners. **Liv
 [![quote](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2000&color=00F5FF&background=00000000&center=true&vCenter=true&random=false&width=720&height=32&lines=%3E+%22Any+sufficiently+advanced+technology+is+indistinguishable+from+magic.%22+--+A.C.Clarke)](https://git.io/typing-svg)
 
 ```
-[0xFFFF] :: KERNEL PANIC AVOIDED :: UPTIME 99.9% :: SHUTTING DOWN GRACEFULLY
+ __________________________________________
+/ HACK THE PLANET // MAKE MACHINES THINK   \
+\ uptime 99.9% :: shutting down... NOT.     /
+ ------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=120&section=footer" width="100%" />
