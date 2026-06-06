@@ -265,26 +265,20 @@ Nmap done :: 1 host up :: 4 ports open :: handshake welcome.
 [![quote](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2000&color=00F5FF&background=00000000&center=true&vCenter=true&random=false&width=720&height=32&lines=%3E+%22Any+sufficiently+advanced+technology+is+indistinguishable+from+magic.%22+--+A.C.Clarke)](https://git.io/typing-svg)
 
 ```
- ________________________________________
-< HACK THE PLANET // MAKE MACHINES THINK >
- ----------------------------------------
-        \
-         \         .-"""""-.
-                  /  _____  \
-                 | |     | |
-                 |[=======]|
-                  \|     |/
-                   |     |
-                   |_____|
-               ___/'-----'\___
-              /  /|       |\  \
-             /  / |       | \  \
-            |  |  |       |  |  |
-            |  |  |       |  |  |
-            '  |  |       |  |  '
-               |  |       |  |
-               |  |_______|  |
-               |__|       |__|
+⠀⠀⣠⡶⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣰⣿⠃⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⣯⠀⠀⠀⠀⠀⠀⢠⣴⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀
+⢼⣿⣿⣆⠀⢀⣀⣀⣴⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⣿⣿⣿⣿⣿⣿⠿⠿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢻⣿⠋⠙⢿⣿⣿⡀⠀⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢸⠿⢆⣀⣼⣿⣿⣿⣿⡏⠀⢹⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⡀⣨⡙⠟⣩⣙⣡⣬⣴⣤⠏⠀⠀⠀⠀⠀⠀⣀⡀
+⠀⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⣀⣤⣾⣿⣿⡇
+⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣇⠀⢸⣿⣿⠿⠿⠛⠃
+⠀⠀⠀⠀⢠⣿⣿⢹⣿⢹⣿⣿⣿⢰⣿⠿⠃⠀⠀⠀⠀
+⠀⢀⣀⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡛⠀⠀⠀⠀⠀⠀
+⠀⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠛⠓⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠉⠀⠉⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=120&section=footer" width="100%" />
