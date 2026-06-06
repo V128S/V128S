@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=200&text=V128S&fontSize=90&fontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1&fontAlignY=50&desc=//+AI+ENGINEER+%3A%3A+BOT+ARCHITECT+%3A%3A+SYSTEM+BUILDER&descAlignY=73&descSize=15&descColor=00f5ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=200&text=V128S&fontSize=90&fontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1&fontAlignY=50&desc=//+AI+ENGINEER+%3A%3A+BOT+ARCHITECT+%3A%3A+FULL-STACK+BUILDER&descAlignY=73&descSize=15&descColor=00f5ff" width="100%" />
 </div>
 
 <div align="center">
 
 [![matrix](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=60&pause=4000&color=39D353&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=36&lines=01001000+01000001+01000011+01001011+00110101+00110111+00110011+00110010+01010011+00100000+01001001+01001110+01001001+01010100+01001001+01000001+01001100+01001001+01011010+01001001+01001110+01000111)](https://git.io/typing-svg)
 
-[![status](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2400&pause=900&color=39D353&background=00000000&center=true&vCenter=true&random=false&width=760&height=48&lines=SYSTEM+ONLINE+%3A%3A+AI+PROTOCOLS+ACTIVE;%3E_+0xDEAD+LLMs+wired+into+production...;%3E_+Multi-agent+Telegram+architect+%5BROOT%5D;%3E_+Python+%7C+asyncio+%7C+Anthropic+%7C+Gemini;HACK+THE+PLANET+%2F%2F+MAKE+MACHINES+THINK;%3E_+sudo+systemctl+start+creativity.service)](https://git.io/typing-svg)
+[![status](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2400&pause=900&color=39D353&background=00000000&center=true&vCenter=true&random=false&width=760&height=48&lines=SYSTEM+ONLINE+%3A%3A+AI+PROTOCOLS+ACTIVE;%3E_+0xDEAD+LLMs+wired+into+production...;%3E_+Multi-agent+Telegram+architect+%5BROOT%5D;%3E_+Python+%7C+asyncio+%7C+Anthropic+%7C+Gemini;%3E_+TS+%7C+Next.js+%7C+React+%7C+TON+%7C+Supabase;%3E_+Full-stack+%3A%3A+bots+%2B+web3+%2B+web;HACK+THE+PLANET+%2F%2F+MAKE+MACHINES+THINK;%3E_+sudo+systemctl+start+creativity.service)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,10 +26,10 @@
 ║                                          ║
 ║  uid=0(V128S) gid=1337(hackers)          ║
 ║  handle:    V128S                        ║
-║  class:     AI & Bot Engineer            ║
+║  class:     AI · Bot · Full-Stack Eng    ║
 ║  kernel:    Python-3.13 asyncio-RELEASE  ║
 ║  uptime:    building... [no ETA]         ║
-║  load avg:  LLMs/bots/agents             ║
+║  load avg:  LLMs/bots/agents/web3        ║
 ║                                          ║
 ╚══════════════════════════════════════════╝
 ```
@@ -39,6 +39,8 @@ root@V128S:~$ netstat | grep ESTABLISHED
   tcp 0 0 V128S:443  anthropic.com  ESTABLISHED
   tcp 0 0 V128S:443  google.com     ESTABLISHED
   tcp 0 0 V128S:443  groq.com       ESTABLISHED
+  tcp 0 0 V128S:443  toncenter.com  ESTABLISHED
+  tcp 0 0 V128S:443  vercel.com     ESTABLISHED
   tcp 0 0 V128S:8080 telegram.org   ESTABLISHED [x6]
   udp 0 0 V128S:*    human_mind     LISTENING
 ```
@@ -54,8 +56,9 @@ root@V128S:~$ netstat | grep ESTABLISHED
 `$ lsmod | grep lang`
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![YAML](https://img.shields.io/badge/YAML-0d1117?style=for-the-badge&logo=yaml&logoColor=CB171E)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 `$ ls /neural/providers/`
 
@@ -72,20 +75,72 @@ root@V128S:~$ netstat | grep ESTABLISHED
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=007808)
 
+`$ ls /var/www/ && cat /etc/web3.conf`
+
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=2D3748)
+![TON](https://img.shields.io/badge/TON-0d1117?style=for-the-badge&logo=telegram&logoColor=0088CC)
+
 `$ dpkg -l | grep tools`
 
 ![uv](https://img.shields.io/badge/uv-0d1117?style=for-the-badge&logo=astral&logoColor=DE5FE9)
 ![Ruff](https://img.shields.io/badge/Ruff-0d1117?style=for-the-badge&logo=ruff&logoColor=D7FF64)
 ![mypy](https://img.shields.io/badge/mypy-0d1117?style=for-the-badge&logo=python&logoColor=1F5082)
 ![pytest](https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
+![Vitest](https://img.shields.io/badge/Vitest-0d1117?style=for-the-badge&logo=vitest&logoColor=6E9F18)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
 </div>
 
 ---
 
-## `[0x03] >> PERF_METRICS.log`
+## `[0x03] >> FEATURED_PROJECTS.sys`
+
+```
+root@V128S:~$ ls -la ~/projects/ --pinned --sort=ship-date
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💎 TonMirror
+
+> **Copy the alpha of TON's best traders — inside Telegram.**
+
+A Telegram Mini App that follows whale wallets and **mirrors their swaps in real time** on TON via STON.fi / Omniston. Live on-chain mode (TonAPI polling + TON Connect signing), strategy guardrails, whale Net-PnL analytics, and a hidden phosphor **terminal theme** (tap the logo 5×).
+
+`Next.js 15` · `TypeScript` · `TON Connect` · `Omniston` · `Prisma` · `PostgreSQL`
+
+[![live](https://img.shields.io/badge/▶_LIVE-tonmirror.vercel.app-39d353?style=flat-square&labelColor=0d1117)](https://tonmirror.vercel.app)
+[![repo](https://img.shields.io/badge/SRC-TONMirror-00f5ff?style=flat-square&labelColor=0d1117&logo=github)](https://github.com/V128S/TONMirror)
+
+</td>
+<td width="50%" valign="top">
+
+### ⛏️ TradeM
+
+> **Industrial Excellence — premium ASIC storefront.**
+
+A trilingual (UA / RU / EN) e-commerce + service platform for ASIC miners. **Live profitability calculator** (WhatToMine + NBU FX), Google Sheets → Supabase catalog sync, Supabase Auth + admin panel, and a full SEO content cluster (algo hubs, blog, per-model FAQ).
+
+`Next.js 16` · `React 19` · `Tailwind 4` · `Supabase` · `next-intl`
+
+[![live](https://img.shields.io/badge/▶_LIVE-trade--mua.vercel.app-39d353?style=flat-square&labelColor=0d1117)](https://trade-mua.vercel.app)
+[![repo](https://img.shields.io/badge/SRC-trade--mua-00f5ff?style=flat-square&labelColor=0d1117&logo=github)](https://github.com/V128S/trade-mua)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `[0x04] >> PERF_METRICS.log`
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V128S&theme=github_dark" width="100%" />
@@ -102,7 +157,7 @@ root@V128S:~$ netstat | grep ESTABLISHED
 
 ---
 
-## `[0x04] >> TROPHIES.db`
+## `[0x05] >> TROPHIES.db`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=V128S&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=8" width="100%" />
@@ -110,15 +165,15 @@ root@V128S:~$ netstat | grep ESTABLISHED
 
 ---
 
-## `[0x05] >> ACTIVITY.trace`
+## `[0x06] >> ACTIVITY.trace`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=V128S&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=c9d1d9&area_color=003300&area=true&hide_border=true&custom_title=%5B0x05%5D%20CONTRIBUTION%20TRACE" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=V128S&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=c9d1d9&area_color=003300&area=true&hide_border=true&custom_title=%5B0x06%5D%20CONTRIBUTION%20TRACE" width="100%" />
 </div>
 
 ---
 
-## `[0x06] >> SNAKE.exe --stealth`
+## `[0x07] >> SNAKE.exe --stealth`
 
 <div align="center">
   <picture>
